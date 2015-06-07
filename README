@@ -1,0 +1,27 @@
+pngw
+a library for writing png files
+
+copyright (c) 2007 Geo Carncross <geocar@sdf.lonestar.org>
+
+
+
+libpng adds almost 200K to your problem. 300K if you didn't already need zlib.
+for a program that doesn't have anything to do with images, this is ridiculous.
+
+pngw is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
+
+pngw is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with pngw; if not, write to the Free Software
+Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+
+Note, pngw is not redistributable under the LGPL, so if you have an interest
+in writing non-free software, you will have to continue using libpng instead
+of pngw.
